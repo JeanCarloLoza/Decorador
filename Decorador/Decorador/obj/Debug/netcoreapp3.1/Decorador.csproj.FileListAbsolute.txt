@@ -1,0 +1,11 @@
+C:\Trabajo\Cursos\Patrones\Decorador\Decorador\Decorador\bin\Debug\netcoreapp3.1\Decorador.exe
+C:\Trabajo\Cursos\Patrones\Decorador\Decorador\Decorador\bin\Debug\netcoreapp3.1\Decorador.deps.json
+C:\Trabajo\Cursos\Patrones\Decorador\Decorador\Decorador\bin\Debug\netcoreapp3.1\Decorador.runtimeconfig.json
+C:\Trabajo\Cursos\Patrones\Decorador\Decorador\Decorador\bin\Debug\netcoreapp3.1\Decorador.runtimeconfig.dev.json
+C:\Trabajo\Cursos\Patrones\Decorador\Decorador\Decorador\bin\Debug\netcoreapp3.1\Decorador.dll
+C:\Trabajo\Cursos\Patrones\Decorador\Decorador\Decorador\bin\Debug\netcoreapp3.1\Decorador.pdb
+C:\Trabajo\Cursos\Patrones\Decorador\Decorador\Decorador\obj\Debug\netcoreapp3.1\Decorador.csprojAssemblyReference.cache
+C:\Trabajo\Cursos\Patrones\Decorador\Decorador\Decorador\obj\Debug\netcoreapp3.1\Decorador.AssemblyInfoInputs.cache
+C:\Trabajo\Cursos\Patrones\Decorador\Decorador\Decorador\obj\Debug\netcoreapp3.1\Decorador.AssemblyInfo.cs
+C:\Trabajo\Cursos\Patrones\Decorador\Decorador\Decorador\obj\Debug\netcoreapp3.1\Decorador.dll
+C:\Trabajo\Cursos\Patrones\Decorador\Decorador\Decorador\obj\Debug\netcoreapp3.1\Decorador.pdb
